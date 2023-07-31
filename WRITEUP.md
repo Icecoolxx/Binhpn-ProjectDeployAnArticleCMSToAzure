@@ -18,3 +18,5 @@ When using Azure Virtual Machines (VMs), all those installation tasks have to be
 As I mentioned above, if Azure Virtual Machines (VMs) could provide some support to reduce the tasks related to installing libraries or environments for building and deploying applications, it would be great. However, fundamentally, Azure Virtual Machines (VMs) are infrastructure as a Service (IaaS), so that might not be entirely feasible.
 
 Therefore, I will probably still prioritize choosing Azure APP Service. Unless the project has very stringent hardware requirements, then I might consider using Azure Virtual Machines (VMs).
+
+**My application URL** https://binhpn-webapp.azurewebsites.net/home
